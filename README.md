@@ -7,7 +7,7 @@
 **GRUPO TECP0001DAANCMX2007**
 
 **Experto:** Eduardo Selim Martínez Mayorga   
-Martes y Jueves 19 a 122 hrs. En línea.
+Martes y Jueves 19:00 a 22:00 hrs. En línea.
 
 ### Descripción
 
