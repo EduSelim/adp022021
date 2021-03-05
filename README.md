@@ -36,7 +36,9 @@ El Procesamiento de Datos, que fue el tema del módulo anterior, estará siempre
 - [Sesión 6: Visualización de Datos Avanzada](./Sesion-06/Readme.md)
 - [**`Presentación`**](presentaciones/adpp05.pdf)
 - [Sesión 7: Pruebas A/B y Procesamiento de Lenguaje Natural](./Sesion-07/Readme.md)
+- [**`Presentación`**](presentaciones/adpp05.pdf)
 - [Sesión 8: Introducción a Machine Learning: Clasificación No Supervisada y Supervisada](./Sesion-08/Readme.md)
+- [**`Presentación`**](presentaciones/adpp05.pdf)
 
 ### Instalaciones
 
